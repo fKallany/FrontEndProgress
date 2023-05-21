@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(255, 188, 188);
+}
+h1 {
+    color:#018791;
+    background-color: rgb(250, 178, 178);
+    margin: 0px;
+    padding: 10px;
+    text-align: left;
+    text-indent: 10px;
+}
+p {
+    color: #369101;
+    background-color: rgb(201, 253, 236);
+    margin: 0px;
+    padding: 10px;
+    text-transform: capitalize;
+    text-align: left;
+    text-indent: 20px;
+}
+a {
+    /* text-decoration: none; tira o underline */
+    color: red;
+
+}
+.teste01 {
+    display: none;
+}

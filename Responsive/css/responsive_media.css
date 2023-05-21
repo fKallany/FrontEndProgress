@@ -1,0 +1,31 @@
+@media screen and (min-width: 48.75em) {
+
+    .top-header-logo {
+        float: left;
+    }
+    .top-nav {
+        background: transparent;
+        float: right;
+        margin-top: 25px;
+    }
+    .top-nav ul {
+        margin: 0;
+        padding: 0;
+    }
+    .top-nav li {
+        display: inline-block;
+    }
+    .top-nav a {
+        color: #713a84;
+    }
+    .top-nav a:hover {
+        background: #e7d9fc;
+    }
+
+    .top-content {
+        background: #521a66;
+    }
+    .top-content, .top-content-title, .top-content-subtitle {
+        color: white;
+    }
+}
